@@ -5,7 +5,7 @@ To hold myself accountable I chose to do this with the #100DaysOfMLCode challeng
 cd Machine_Learning  
 git init  
 git add motivation  
-git commit -m "100 days straight"  
+git commit -m "100 days of ML"  
 git push yourself_harder  
 
 
