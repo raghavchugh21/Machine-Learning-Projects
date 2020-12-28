@@ -1,14 +1,7 @@
-# 100DaysOfMachineLearning
-To hold myself accountable I chose to do this with the #100DaysOfMLCode challenge. The principle is that you code for at least an hour each day for 100 continuous days and log your progress.
+#Machine Learning Projects
 
+This repository contains projects completed by me in the domain of Machine Learning during 2018-19.
+Most of the assignments I covered during the completion of the follwing courses are also included in this repo.
 
-cd Machine_Learning  
-git init  
-git add motivation  
-git commit -m "100 days of ML"  
-git push yourself_harder  
-
-
-
-
-
+* Machine Learning by Stanford
+* Deep Learning Specialization by deeplearning.ai
