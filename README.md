@@ -4,5 +4,5 @@ This repository contains projects completed by me in the domain of Machine Learn
 
 Most of the assignments I covered during the completion of the follwing courses are also included in this repo.
 
-* Machine Learning by Stanford
-* Deep Learning Specialization by deeplearning.ai
+* Machine Learning by Stanford (on Coursera)
+* Deep Learning Specialization by deeplearning.ai (on Coursera)
